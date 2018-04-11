@@ -1,5 +1,5 @@
 # Medium Dark Theme
-> extension chrome เปลียน background ให้เป็นสีดำ
+> extension chrome เปลียน background ให้เป็นสีดำ (ยังใช้งานไม่ได้ทั้งหมด)
 
 <!-- [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
