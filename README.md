@@ -6,11 +6,9 @@
 [![Downloads Stats][npm-downloads]][npm-url] -->
 
 ## Homepage
-![](./img/preview.png)
+![](https://res.cloudinary.com/dswcocz3f/image/upload/v1523529108/preview_vesmnd.png)
 ## Search
-![](./img/Medium-1.png)
-## Content
-![](./img/Medium-2.png)
+![](https://res.cloudinary.com/dswcocz3f/image/upload/v1523529117/Medium-2_sl1ja9.png)
 
 
 ## Installation
