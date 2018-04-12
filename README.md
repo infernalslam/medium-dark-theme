@@ -5,12 +5,18 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url] -->
 
-
+## Homepage
 ![](./img/preview.png)
+## Search
+![](./img/Medium-1.png)
+## Content
+![](./img/Medium-2.png)
+
 
 ## Installation
 ```
 extension chrome
+coming soon extension chrome
 ```
 
 
